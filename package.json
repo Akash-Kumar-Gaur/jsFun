@@ -2,6 +2,7 @@
   "name": "jsfun",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://akash-kumar-gaur.github.io/jsFun/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
